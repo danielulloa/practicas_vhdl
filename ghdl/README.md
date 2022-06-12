@@ -89,7 +89,7 @@ CompNORn_tb.vhdl:42:8:@16ns:(report note): Verificación exitosa!
 gtkwave out.vcd
 ```
 
-![image-20220301220339827](images/image-20220301220339827.png)
+![image-20220301220339827](../images/image-20220301220339827.png)
 
 ## Editores de texto recomendados
 
@@ -110,7 +110,7 @@ scoop install neovim
 
 El uso de extensiones hace que neovim se convierta en un poderoso entorno de desarrollo, algunas que pueden resultar sumamente útiles son coc, syntastic, airline, nerdtree y el gestor para su instalación vim-plug.
 
-![image-20220301235907725](images/image-20220301235907725.png)
+![image-20220301235907725](../images/image-20220301235907725.png)
 
 ## Automatización
 
