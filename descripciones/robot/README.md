@@ -1,0 +1,2 @@
+# Lógica de un robot
+Se desea implementar un bloque de control del movimiento de un robot. Este bloque tendrá seis señales de entrada D, I, A, R, P, B (indicando respectivamente si se quiere girar a la Derecha, Izquierda, Avanzar, Retroceder, Pararse o indicar que las baterías están bajas). En total tendremos seis estados posibles. Trazar un diagrama de estados que realice este comportamiento además de su implementación en VHDL.

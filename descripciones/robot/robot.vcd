@@ -1,0 +1,238 @@
+$date
+  Tue Apr 05 21:22:01 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module robot_tb $end
+$var reg 1 ! di_t $end
+$var reg 1 " ii_t $end
+$var reg 1 # ai_t $end
+$var reg 1 $ ri_t $end
+$var reg 1 % pi_t $end
+$var reg 1 & bi_t $end
+$var reg 1 ' do_t $end
+$var reg 1 ( io_t $end
+$var reg 1 ) ao_t $end
+$var reg 1 * ro_t $end
+$var reg 1 + po_t $end
+$var reg 1 , bo_t $end
+$var reg 1 - clk_t $end
+$var reg 1 . rst_t $end
+$var reg 1 / detener $end
+$scope module dut $end
+$var reg 1 0 d_i $end
+$var reg 1 1 i_i $end
+$var reg 1 2 a_i $end
+$var reg 1 3 r_i $end
+$var reg 1 4 p_i $end
+$var reg 1 5 b_i $end
+$var reg 1 6 clk $end
+$var reg 1 7 rst_i $end
+$var reg 1 8 d_o $end
+$var reg 1 9 i_o $end
+$var reg 1 : a_o $end
+$var reg 1 ; r_o $end
+$var reg 1 < p_o $end
+$var reg 1 = b_o $end
+$comment actual is not handled $end
+$comment sigue is not handled $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+1&
+1'
+0(
+0)
+0*
+0+
+0,
+1-
+1.
+0/
+00
+01
+02
+03
+04
+15
+16
+17
+18
+09
+0:
+0;
+0<
+0=
+#10000000
+0-
+06
+#20000000
+0'
+1+
+1-
+16
+08
+1<
+#22000000
+0.
+07
+#30000000
+0-
+06
+#40000000
+1-
+16
+#42000000
+#50000000
+0-
+06
+#60000000
+1-
+16
+#70000000
+0-
+06
+#80000000
+0&
+1-
+05
+16
+#82000000
+#90000000
+0-
+06
+#100000000
+0+
+1,
+1-
+16
+0<
+1=
+#102000000
+#110000000
+0-
+06
+#120000000
+1-
+16
+#122000000
+#130000000
+0-
+06
+#140000000
+1-
+16
+#142000000
+1&
+15
+#150000000
+0-
+06
+#160000000
+1+
+0,
+1-
+16
+1<
+0=
+#162000000
+#164000000
+#170000000
+0-
+06
+#180000000
+1-
+16
+#184000000
+1#
+12
+#190000000
+0-
+06
+#200000000
+1)
+0+
+1-
+16
+1:
+0<
+#202000000
+#204000000
+#210000000
+0-
+06
+#220000000
+1-
+16
+#224000000
+0#
+02
+#230000000
+0-
+06
+#240000000
+1-
+16
+#242000000
+#244000000
+#250000000
+0-
+06
+#260000000
+1-
+16
+#264000000
+0&
+05
+#270000000
+0-
+06
+#280000000
+0)
+1+
+1-
+16
+0:
+1<
+#282000000
+#284000000
+#290000000
+0-
+06
+#300000000
+0+
+1,
+1-
+16
+0<
+1=
+#304000000
+#306000000
+#310000000
+0-
+06
+#320000000
+1-
+16
+#326000000
+1/
+#330000000
+0-
+06
+#340000000

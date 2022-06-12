@@ -1,0 +1,144 @@
+$date
+  Tue Apr 05 22:03:10 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module motor2_tb $end
+$var reg 1 ! a_t $end
+$var reg 1 " b_t $end
+$var reg 1 # clk_t $end
+$var reg 1 $ rst_t $end
+$var reg 1 % detener $end
+$scope module dut $end
+$var reg 1 & a_i $end
+$var reg 1 ' clk $end
+$var reg 1 ( rst_i $end
+$var reg 1 ) b_o $end
+$comment actual is not handled $end
+$comment sigue is not handled $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+1"
+1#
+1$
+0%
+0&
+1'
+1(
+1)
+#10000000
+0#
+0'
+#20000000
+0"
+1#
+1'
+0)
+#22000000
+0$
+0(
+#30000000
+0#
+0'
+#40000000
+1#
+1'
+#42000000
+#50000000
+0#
+0'
+#60000000
+1#
+1'
+#62000000
+#70000000
+0#
+0'
+#80000000
+1#
+1'
+#82000000
+1!
+1&
+#90000000
+0#
+0'
+#100000000
+1"
+1#
+1'
+1)
+#102000000
+#104000000
+#110000000
+0#
+0'
+#120000000
+0"
+1#
+1'
+0)
+#124000000
+0!
+0&
+#130000000
+0#
+0'
+#140000000
+1#
+1'
+#142000000
+#144000000
+#150000000
+0#
+0'
+#160000000
+1#
+1'
+#164000000
+1!
+1&
+#170000000
+0#
+0'
+#180000000
+1#
+1'
+#182000000
+#190000000
+0#
+0'
+#200000000
+1"
+1#
+1'
+1)
+#202000000
+#204000000
+#210000000
+0#
+0'
+#220000000
+0"
+1#
+1'
+0)
+#224000000
+1%
+#230000000
+0#
+0'
+#240000000

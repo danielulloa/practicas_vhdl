@@ -1,0 +1,2 @@
+# Control motor
+Un motor eléctrico viene controlado por un único botón. Cuando se pulsa, el motor pasa de encendido a apagado. Si se vuelve a pulsar, el motor pasará otra vez al estado apagado. Sintetizar en VHDL el circuito de control del motor.

@@ -1,0 +1,16 @@
+all:
+	ghdl -a deco3a8.vhdl
+	ghdl -e deco3a8
+	ghdl -a deco3a8_tb.vhdl
+	ghdl -e deco3a8_tb
+.PHONY: clean
+clean:
+	cmd \/C del *.cf
+
+.PHONY: simulate
+simulate:
+	ghdl -r deco3a8_tb --stop-time=100ns --vcd=deco3a8.vcd
+
+.PHONY: show
+show:
+	gtkwave deco3a8.vcd
